@@ -22,12 +22,17 @@ public class incrementalOperator {
 		
 		// case 2 pre increment
 		
+//		int a= 10;        // result 11		int res= ++a;
+//		System.out.println(res);
+//		
+//		// here frist in crement & than assingment
+//		System.out.println(a);
+		
+		
+		//case 3   post increment
 		int a= 10;
-		int res= ++a;
-		System.out.println(res);
-		
-		// here frist in crement & than assingment
-		System.out.println(a);
-		
+		int res=++a;
+		System.out.println(res);   //result 11
+		System.out.println(a);   //result 11
 	}
 }

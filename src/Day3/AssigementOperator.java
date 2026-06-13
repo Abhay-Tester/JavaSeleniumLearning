@@ -6,17 +6,17 @@ public class AssigementOperator {
 		// TODO Auto-generated method stub
 
 		
-		/*int a= 10;
+		/*int a= 10;  // assigment some value
 		a+=5;    //a=a+5;
 		System.out.println(a);
 		
-		a-=5;
+		a-=5;    // a=a-5
 		System.out.println(a);
 		
-		a*=2;  a=a*2
+		a*=2;     a=a*2
 		System.out.println(a);
 		
-		a/=2;  a=a/2
+		a/=2;     a=a/2
 		System.out.println(a);
 		
 		
@@ -27,6 +27,7 @@ public class AssigementOperator {
 		// ==  use for compare the value
 		
 		// = user for assignee the value
+		
 		
 		
 	}
